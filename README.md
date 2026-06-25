@@ -9,15 +9,11 @@ This project analyzes the **CMS Medicare Physician & Other Practitioners (2024)*
 
 A **Provider Risk Score** was developed by benchmarking providers within their own specialties across multiple billing metrics, helping prioritize providers for further review.
 
----
-
 ## 🎯 Business Problem
 
 Healthcare payment integrity teams must identify providers whose billing patterns differ significantly from their peers.
 
 Since manually reviewing every Medicare claim is impractical, analytics can be used to identify providers with unusual billing behavior and prioritize them for further investigation.
-
----
 
 ## 📂 Dataset
 
@@ -33,7 +29,6 @@ Since manually reviewing every Medicare claim is impractical, analytics can be u
 | Sample Used for Analysis | 489,084 Records |
 | Final Provider Dataset | 344,734 Providers |
 
----
 
 ## 🛠️ Tools & Technologies
 
@@ -72,7 +67,6 @@ Tableau
 • Business Insights
 ```
 
----
 
 ## 📊 Payment Integrity Approach
 
@@ -88,14 +82,12 @@ These metrics were combined into a **weighted Provider Risk Score** to prioritiz
 
 > **Note:** The Provider Risk Score identifies unusual billing patterns and supports payment integrity review. It does **not** indicate confirmed fraud.
 
----
 
 # 📈 Tableau Dashboard
 
 <p align="center">
   <img src="Visualisation.png" width="100%">
 </p>
-
 
 # 📌 Key Findings
 
@@ -107,13 +99,6 @@ These metrics were combined into a **weighted Provider Risk Score** to prioritiz
 - Provider Risk Scores were calculated using percentile-based benchmarking within specialties, ensuring fair comparisons across provider types.
 - The weighted Provider Risk Score combines multiple billing indicators into a single metric, enabling more balanced payment integrity analysis.
 - The analysis helps prioritize providers for further review based on unusual billing behavior rather than identifying confirmed fraud.
-
----
-
----
-
-
----
 
 # 👩‍💻 Author
 
