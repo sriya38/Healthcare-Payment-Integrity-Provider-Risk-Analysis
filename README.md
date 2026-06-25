@@ -1,4 +1,4 @@
-# 🏥 Healthcare Payment Integrity & Provider Risk Analysis
+# 🏥 Healthcare Payment Integrity Analysis
 
 
 ## 📖 Project Overview
